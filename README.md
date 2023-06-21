@@ -1,9 +1,11 @@
 # Notice-Integrated-Service
 Stack
-Front - BootStrap
-Backend - Java spring, mysql
+- Front - BootStrap
+- Backend - Java spring, mysql
 
 +@ Selenium 
+
+<br>
 
 ### 대학교 공지사항 통합 서비스
 3학년 1학기에 스터디로 배운 스프링 부트와 세종대학교 데이터베이스 수업에서 배운 DB설계와 웹프로그래밍에서 배운 부트스트랩을 통해 만든 첫 프로젝트
