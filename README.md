@@ -3,7 +3,7 @@ Stack
 - Front - BootStrap
 - Backend - Java spring, mysql
 
-+@ Selenium 
++@ Selenium : 파일명은 학교+교과(1)비교과(2)학생회(3)으로 지정  
 
 <br>
 
