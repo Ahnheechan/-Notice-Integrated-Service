@@ -1,12 +1,15 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/project_notice?characterEncoding=UTF-8&serverTimezone=UTC
-    username: notice_admin
-    password: ahc0209@
+#    url: jdbc:mysql://127.0.0.1:3306/project_notice?characterEncoding=UTF-8&serverTimezone=UTC
+#    username: notice_admin
+#    password: ahc0209@
+    url: jdbc:mysql://database-1.chd98ac9ytv1.ap-northeast-2.rds.amazonaws.com:3306/project_notice?characterEncoding=UTF-8&serverTimezone=UTC
+    username: admin
+    password: 12345678
   jpa:
     hibernate:
-      ddl-auto: none
+      ddl-auto: create
     show-sql: false
     properties:
       hibernate:
