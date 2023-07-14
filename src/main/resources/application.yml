@@ -5,8 +5,8 @@ spring:
 #    username: notice_admin
 #    password: ahc0209@
     url: jdbc:mysql://database-1.chd98ac9ytv1.ap-northeast-2.rds.amazonaws.com:3306/project_notice?characterEncoding=UTF-8&serverTimezone=UTC
-    username: admin
-    password: 12345678
+    username: 
+    password: 
   jpa:
     hibernate:
       ddl-auto: none
